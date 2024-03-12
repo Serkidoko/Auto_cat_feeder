@@ -5,7 +5,8 @@ Arduino completion
 
 
 
-Introduction
+INTRODUCTION:
+
 This system is programmed on Arduino, inspired by automatic cat feeding machines. The system can sense sound and physical impact through a specific area to transmit signals to the food dispensing machine.
 Main workflow:
 ![image](https://github.com/Serkidoko/Auto_cat_feeder/assets/150759723/47937026-bbba-4f04-83fc-ec8d7fa5ea58)
