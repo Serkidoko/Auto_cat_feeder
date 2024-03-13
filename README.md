@@ -1,5 +1,5 @@
 # Auto_cat_feeder
-## Arduino completion
+## With coding library from scrath
 
 ![image](https://github.com/Serkidoko/Auto_cat_feeder/assets/150759723/f41b5087-42b8-4c21-95c5-4295c75b0ce2)
 
